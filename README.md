@@ -3,7 +3,7 @@
 
 **Energy Monitor** is a desktop application developed using **Python** and **PyQt6**. It is designed to visualize, track, and analyze energy data in real-time. This version is a demo created for evaluation purposes only.
 
-![واجهة التطبيق](screenshot.png)
+![واجهة التطبيق](app_screenshot.png)
 
 
 ---
